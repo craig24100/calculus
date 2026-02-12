@@ -1,0 +1,4 @@
+- [x] Update calculator.html to include all calculator buttons (0-9, +, -, *, /, =, C)
+- [x] Implement calculator logic in main.js (appendNumber, setOperator, calculate, clearDisplay functions)
+- [x] Style the calculator in style.css (grid layout, button styles)
+- [x] Test the calculator by opening calculator.html in browser
